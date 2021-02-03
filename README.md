@@ -1,4 +1,3 @@
-# LiverTumorSegmentation
 # Liver Tumor Segmentation  
 <img src="img/UI.png" alt="UI" width="450"/>  
 
